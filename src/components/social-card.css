@@ -1,0 +1,18 @@
+.container {
+  margin: auto;
+}
+
+.avatar {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+.profile_name {
+  font-family: sans-serif;
+  font-size: medium;
+  font-weight: bold;
+}
+.social-card {
+  max-height: fit-content;
+  max-width: fit-content;
+}
